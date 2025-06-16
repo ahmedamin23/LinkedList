@@ -12,4 +12,5 @@ int main(){
     cout<<"bad "<<endl;
     cout<<"ss"<<endl;
     cout<<"its basb "<<endl;
+    cout<<"add my new code!!!"<<endl;
 }
