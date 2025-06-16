@@ -1,2 +1,2 @@
 ﻿# LinkedList
-#its linked boss
+# its linked boss
